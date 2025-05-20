@@ -9,6 +9,7 @@ entropy_example.ipynb
 paths.ipynb
 test.ipynb
 test_dist.ipynb
+tree_dist.ipynb
 
 !data/create_dataset.py
 !data/create_mri_dataset.py
