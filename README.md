@@ -97,5 +97,3 @@ For questions or collaborations:
 Author: Riccardo Ceccaroni
 Email: riccardo.ceccaroni@uniroma1.it
 
-
-## References 
