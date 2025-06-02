@@ -94,6 +94,6 @@ This project is licensed under the MIT License. See LICENSE for more details.
 ## Contact
 For questions or collaborations:
 
-Author: Riccardo Ceccaroni
-Email: riccardo.ceccaroni@uniroma1.it
+- Author: Riccardo Ceccaroni
+- Email: riccardo.ceccaroni@uniroma1.it
 
