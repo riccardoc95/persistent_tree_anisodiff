@@ -1,15 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: ""
-  given-names: ""
+- family-names: "Ceccaroni"
+  given-names: "Riccardo"
   orcid: ""
-- family-names: ""
-  given-names: ""
+- family-names: "Brutti"
+  given-names: "Pierpaolo"
+  orcid: ""
+- family-names: "Zakharova"
+  given-names: "Anastasia"
+  orcid: ""
+- family-names: "Bouwmans"
+  given-names: "Thierry"
   orcid: ""
 title: "Persistent Trees: A Topological Tree Structure for Anisotropic Image Denoising"
 version: 1.0.0
-doi: 
-date-released: 
+doi: 10.1234/example-doi
+date-released: 2025-06-01
 url: ""
 
