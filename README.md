@@ -16,7 +16,7 @@ This project introduces a topological framework for image denoising using persis
 
 ## Installation of PixHomology module
 
-To install the `PixHomology` module, navigate to the directory and run:
+To install the [`PixHomology`](https://github.com/riccardoc95/PixHomology) module, navigate to the directory and run:
 
 ```bash
 cd PixHomology
